@@ -1,8 +1,9 @@
- <img width="1462" height="105" alt="Screenshot 2026-05-23 021626" src="https://github.com/user-attachments/assets/45f3a69c-5ec4-43eb-8873-3aef82fc2133" />
-
 <img width="833" height="277" alt="Screenshot 2026-05-23 160603" src="https://github.com/user-attachments/assets/ae430d08-b390-4f57-8933-e72308d6eeda" />
+<div align="center">
+  <img src="path/to/your/image.png" alt="Alt Text">
+</div>
 
-hihi!! im eve:3
+
 
 <!--
 **Mitxsukii/Mitxsukii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
