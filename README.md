@@ -6,6 +6,6 @@
 ⑅￤ ഒ·° 🪼 10/30 🍥₊ ˊ˗
 
 °ᡣ𐭩.° 𝚎𝚜𝚏𝚙 ︵︵ 𝗉𝖺𝗄𝗂𝗌𝗍𝖺𝗇𝗂° .જ⁀➴
-<img src="https://img.shields.io/badge/Mitsuki-Kpop%20Coder-ff69b4">
+<img src="https://img.shields.io/ff69b4">
 
 </p>
