@@ -1,12 +1,15 @@
 <img width="833" height="277" alt="Screenshot 2026-05-23 160603" src="https://github.com/user-attachments/assets/ae430d08-b390-4f57-8933-e72308d6eeda" /> 
 
-<p align="center">🔵
-⊹ 𓂃꩜ 𝖾𝗏𝖾  ᵒʳ  𝗆𝗂𝗍𝗌𝗎𝗄𝗂 !!  ۫ .— ♡🔵</p>
+<p align="center">
+⊹ 𓂃꩜ 𝖾𝗏𝖾  ᵒʳ  𝗆𝗂𝗍𝗌𝗎𝗄𝗂 !!  ۫ .— ♡
 
 <p align="center">
 ⑅￤ ഒ·° 🪼 10/30 🍥₊ ˊ˗
 
 <p align="center">
 °ᡣ𐭩.° 𝚎𝚜𝚏𝚙 ︵︵ 𝗉𝖺𝗄𝗂𝗌𝗍𝖺𝗇𝗂° .જ⁀➴
+
+<p align="center">
+<img width="960" height="177" alt="Screenshot 2026-05-23 021306" src="https://github.com/user-attachments/assets/1374c72e-3719-4b67-bde3-0da277e3fad5" />
 
 </p>
