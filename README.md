@@ -1,7 +1,7 @@
 <img width="833" height="277" alt="Screenshot 2026-05-23 160603" src="https://github.com/user-attachments/assets/ae430d08-b390-4f57-8933-e72308d6eeda" /> 
 
 <h6 <p align="center">
- $\color{rgba(173,216,230, 1)}{\textsf{. ⊹  𓂃꩜ 𝖾𝗏𝖾  ᵒʳ  𝗆𝗂𝗍𝗌𝗎𝗄𝗂  !!  ۫ .— ♡ `}}$ </h6>
+ $\color{rgba(173,216,230, 1)}{\textsf{. ⊹  𓂃꩜ 𝖾𝗏𝖾         ᵒʳ          𝗆𝗂𝗍𝗌𝗎𝗄𝗂  !!  ۫ .— ♡ `}}$ </h6>
 
  <h6 <p align="center">
  $\color{rgba(173,216,230, 1)}{\textsf{⑅￤ ഒ·° 🪼 10/30 🍥₊ ˊ˗}}$   </h6>
@@ -23,6 +23,6 @@ $\color{rgba(173,216,230, 1)}{\textsf{°ᡣ𐭩.° 𝚎𝚜𝚏𝚙 ︵︵  . �
 ᵗʰᶦˢ ᶦˢ ᶠᵒʳ ᵖᵒⁿʸ ᵗᵒʷⁿ </h5>
 
 <h6 <p align="center">
-$\color{rgba(168,224,235, 1)}{{𝗆𝗂𝗄𝗎 𝗉𝗅𝗂𝗌 𝗂𝗇𝗍 .}}$ </h6>
+$\color{rgba(168,224,235, 1)}{{𝗆𝗂𝗄𝗎       𝗉𝗅𝗂𝗌      𝗂𝗇𝗍     .}}$ </h6>
 
 </p>
