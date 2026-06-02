@@ -3,7 +3,7 @@
 <h6 <p align="center">
 . ⊹  𓂃꩜  𝖾𝗏𝖾   ᵒʳ   𝗆𝗂𝗍𝗌𝗎𝗄𝗂  !!  ۫ .— ♡ ` </h6>
 
-$\color{rgba(173,216,230, 1)}{\textsf{alamort}}$
+$\color{rgba(173,216,230, 1)}{\textsf{. ⊹  𓂃꩜ 𝖾𝗏𝖾}}$
 
  <h6 <p align="center">
 ⑅￤ ഒ·° 🪼 10/30 🍥₊ ˊ˗  </h6>
